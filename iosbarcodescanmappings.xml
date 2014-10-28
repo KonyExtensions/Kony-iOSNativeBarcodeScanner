@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="iosbarcodescan" id="iosbarcodescan">
+    <container type="form" id="frm01" displayname="Form"/>
+    <container type="form" id="frm01" displayname="Form"/>
+    <globalsequences/>
+    <skins/>
+</application>
